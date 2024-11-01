@@ -1,0 +1,15 @@
+{
+    "psi-header.variables": [
+        [
+            "projectname",
+            "OmegaESP32UARTController"
+        ],
+        [
+            "projectCreationYear",
+            "2024"
+        ]
+    ],
+    "files.associations": {
+        "omegaesp32uartcontroller.h": "c"
+    }
+}
